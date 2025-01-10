@@ -1,0 +1,3 @@
+# Uncommon Assembly Code Errors and Solutions
+
+This repository demonstrates several uncommon but potentially serious errors that can occur in assembly language programming. These errors often involve memory management and address calculation.  The `bug.asm` file contains examples of the problematic code, while `bugSolution.asm` provides corrected versions with explanations.  These examples highlight the importance of careful memory handling in low-level programming.
